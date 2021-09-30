@@ -66,7 +66,7 @@ Channel :- [MRKP BOTS](https://t.me/mrkpbots)
 
 Group Chat :- [MRKP HELP](https://t.me/mrkphelp)
 
-## :)
+## Special Thanks
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
